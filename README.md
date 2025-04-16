@@ -19,7 +19,7 @@ Este proyecto implementa una solución para la gestión de inventario, ventas y 
 ## Estructura del proyecto
 - "registro_vehiculo.psc": Registro de nuevo vehículo
 - "venta_vehiculo.psc": Proceso de venta
-- "diagrama_ota": Diagrama de OTA
+- "diagrama_ota.psc": Diagrama de OTA
 - "calcular_precio_final.psc": Cálculo de precio final
 - "inventario_vehiculos.psc": Búsqueda por modelo
 
